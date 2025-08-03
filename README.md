@@ -20,17 +20,42 @@
 
 ---
 
-## 💻 Tech Stack
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)
+## 💻 Tech Stack:
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
+![REST API](https://img.shields.io/badge/API-Integration-blue?style=for-the-badge&logo=api&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+
+
+### 🧩 WordPress & Web Development:
+
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white) 
+![WooCommerce](https://img.shields.io/badge/WooCommerce-%238E44AD.svg?style=for-the-badge&logo=woocommerce&logoColor=white) 
+![Elementor](https://img.shields.io/badge/Elementor-%23D83B3B.svg?style=for-the-badge&logo=elementor&logoColor=white) 
+![WPBakery](https://img.shields.io/badge/WPBakery-%230B4D72.svg?style=for-the-badge&logo=wpbakery&logoColor=white) 
+
+- 🧑‍🎨 Custom WordPress Website Design  
+- 🎯 Theme Customization & Bug Fixing  
+- 🧱 Landing Pages with Elementor / WPBakery  
+- 🛒 Dynamic WooCommerce Stores  
+- 🔌 API Integration for Forms, Payments & More
 
 ---
+
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajidashrafdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=sajidashrafdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sajidashrafdev&theme=dark&hide_border=false)
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
