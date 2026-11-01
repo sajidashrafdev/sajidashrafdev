@@ -9,7 +9,7 @@
 - 👯 I’m open to collaborating on: WordPress plugin projects and custom features  
 - 💬 Ask me about: WordPress, Shopify, and PHP-based development   
 - 📫 Reach me at: [sajidashraf.dev@gmail.com](mailto:sajidashraf.dev@gmail.com)  
-- 🌐 Portfolio: [sajidashraf.me](https://sajidashraf.me/)  
+- 🌐 Portfolio: [sajidashraf.me](https://sajidashraf.dev)  
 
 ---
 
